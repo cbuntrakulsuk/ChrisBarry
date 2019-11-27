@@ -11,7 +11,7 @@ html, body {
 }
 
 .carousel-item {
-  height: 55vh;
+  height: 40vh;
   min-height: 350px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -27,9 +27,6 @@ html, body {
 .navbar-brand {
   font-size: 1.8rem;
   font-family: 'Lobster', cursive;
-}
-.navbar {
-  height: 75px;
 }
 .nav-item {
   margin-left: 1em;
