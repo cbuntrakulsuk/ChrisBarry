@@ -8,8 +8,12 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
+  scroll-behavior: smooth;
 }
-
+section {
+  padding-top: 70px;
+  margin-top: -70px;
+}
 .carousel-item {
   height: 40vh;
   min-height: 350px;
