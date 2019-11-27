@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 @import url('https://fonts.googleapis.com/css?family=Lobster|Raleway|Saira+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300&display=swap');
 
 /*http://via.placeholder.com/640x140*/
 
@@ -30,7 +31,7 @@ section {
 }
 .navbar-brand {
   font-size: 1.8rem;
-  font-family: 'Lobster', cursive;
+  font-family: 'Sunflower', sans-serif;
 }
 .nav-item {
   margin-left: 1em;
